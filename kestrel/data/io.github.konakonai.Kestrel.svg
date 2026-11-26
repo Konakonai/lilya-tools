@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128">
+  <!-- Kestrel: a kestrel hovering, tail fanned, over a pulse of requests. -->
+  <defs>
+    <linearGradient id="tile" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#9b82ff"/>
+      <stop offset="1" stop-color="#6a4be6"/>
+    </linearGradient>
+  </defs>
+  <rect x="8" y="12" width="112" height="108" rx="24" fill="#4f33bd"/>
+  <rect x="8" y="8" width="112" height="106" rx="24" fill="url(#tile)"/>
+  <g fill="#ffffff" fill-opacity="0.4">
+    <rect x="22" y="92" width="9" height="10" rx="2.5"/>
+    <rect x="35" y="86" width="9" height="16" rx="2.5"/>
+    <rect x="48" y="94" width="9" height="8" rx="2.5"/>
+    <rect x="71" y="90" width="9" height="12" rx="2.5"/>
+    <rect x="84" y="84" width="9" height="18" rx="2.5"/>
+    <rect x="97" y="93" width="9" height="9" rx="2.5"/>
+  </g>
+  <path fill="#ffffff" d="M64 33C60.5 33 58 35.8 58 39.5L57.2 45C51 41 45 37.5 38 36C30 34.6 21 35.6 11 38.5C22 41.5 33 45.5 43 50C48 52.3 52.5 54 56 55.5L57.5 62L51 80.5C59 84.5 69 84.5 77 80.5L70.5 62L72 55.5C75.5 54 80 52.3 85 50C95 45.5 106 41.5 117 38.5C107 35.6 98 34.6 90 36C83 37.5 77 41 70.8 45L70 39.5C70 35.8 67.5 33 64 33Z"/>
+</svg>
